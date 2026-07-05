@@ -137,18 +137,18 @@ pip install hmmlearn scikit-learn numpy pandas scipy matplotlib seaborn
 
 ##  Task Allocation
 
-| Task | Member |
-|---|---|
-| Data collection (still, standing) | Member 1 |
-| Data collection (walking, jumping) | Member 2 |
-| Data preprocessing & unzip pipeline | Member 1 |
-| Feature extraction (time domain) | Member 2 |
-| Feature extraction (frequency domain) | Member 1 |
-| HMM implementation & Baum–Welch | Member 2 |
-| Viterbi decoding | Member 1 |
-| Evaluation & metrics | Member 2 |
-| Visualisations & dashboard | Member 1 |
-| Report writing | Member 2 |
+| Task | 
+|---|
+| Data collection (still, standing) | 
+| Data collection (walking, jumping) |
+| Data preprocessing & unzip pipeline | 
+| Feature extraction (time domain) |
+| Feature extraction (frequency domain) |
+| HMM implementation & Baum–Welch | 
+| Viterbi decoding |
+| Evaluation & metrics | 
+| Visualisations & dashboard |
+| Report writing | 
 
 ---
 
