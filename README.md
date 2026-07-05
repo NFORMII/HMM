@@ -1,6 +1,7 @@
-# 🏃 Human Activity Recognition using Hidden Markov Models
+# Human Activity Recognition using Hidden Markov Models
 
-> **Formative 2 — Machine Learning Techniques | African Leadership University**  
+> **Formative 2**
+>  **Machine Learning Techniques 2*  
 
 
 ---
